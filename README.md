@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SoftWare+engineering+student)](https://git.io/typing-svg)
 
-
-[![codewars](https://www.codewars.com/users/ULtaR31/badges/large)](https://www.codewars.com/users/ULtaR31)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ULtaR31&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 </h3>
