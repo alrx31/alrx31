@@ -80,6 +80,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alrx31/alrx31/output/snake.svg" alt="Snake animation" />
-
 ###
