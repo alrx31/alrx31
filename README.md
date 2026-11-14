@@ -1,152 +1,57 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-  <img alt="Aliaksei Usov, full-stack developer at BSUIR in Minsk. ASP.NET Core, TypeScript, and .NET MAUI." src="./assets/hero-light.svg" width="100%" />
-</picture>
-
+<div>
+<img width="100%" alt="Aliaksei Usov. Full-stack developer. Software engineering student at BSUIR in Minsk." src="./assets/poster.svg">
 </div>
 
-<table>
-<tr>
-<td width="58%" valign="middle">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" />
-  <img alt="About. I build ASP.NET Core services, TypeScript clients, and .NET MAUI apps, and I connect them to PostgreSQL, Redis, Docker, and an observability stack when the project needs it." src="./assets/about-light.svg" width="100%" />
-</picture>
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=alrx31&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark" />
-  <img alt="GitHub stats for alrx31" src="https://github-stats-extended.vercel.app/api?username=alrx31&show_icons=true&hide_border=true&include_all_commits=true&theme=default" />
-</picture>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
-  <img alt="Stack. C#, .NET, TypeScript, Java, C++, ASP.NET Core, .NET MAUI, Next.js, Angular, PostgreSQL, Redis, Docker, Nginx, Nix, Elasticsearch, Logstash, Kibana, Grafana, Prometheus, Loki, Tempo." src="./assets/stack-light.svg" width="100%" />
-</picture>
-
+<div>
+<img width="100%" alt="I build ASP.NET Core services, TypeScript clients (Next.js and Angular), and .NET MAUI apps, and connect them to PostgreSQL, Redis, Docker, and observability when the project needs it." src="./assets/about.svg">
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-work-dark.svg" />
-  <img alt="Selected work" src="./assets/label-work-light.svg" width="100%" />
-</picture>
-
+<div>
+<img width="100%" alt="Languages: C#, .NET, ASP.NET Core, .NET MAUI, TypeScript, Next.js, Angular, Java, C++. Infrastructure: PostgreSQL, Redis, Docker, Nginx, Nix. Observability: Elasticsearch, Logstash, Kibana, Grafana, Prometheus, Loki, Tempo." src="./assets/stack.svg">
 </div>
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/alrx31/MoonDiary">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/moondiary-dark.svg" />
-  <img alt="MoonDiary. Android mood diary on .NET MAUI, with SQLite and tests in CI." src="./assets/moondiary-light.svg" width="100%" />
-</picture>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://github.com/alrx31/EventPlatform">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/eventplatform-dark.svg" />
-  <img alt="EventPlatform. Events, Stripe tickets, and QR check-in. Contributor on the Vakich1 fork." src="./assets/eventplatform-light.svg" width="100%" />
-</picture>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/alrx31/DreamsShop">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dreamsshop-dark.svg" />
-  <img alt="DreamsShop. Identity and Business services, Angular, PostgreSQL, Redis, and MinIO." src="./assets/dreamsshop-light.svg" width="100%" />
-</picture>
-</a>
-
-</td>
-<td width="50%" align="center">
-
-<a href="https://github.com/alrx31/ELK-integration">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/elk-dark.svg" />
-  <img alt="ELK-integration. TLS Elasticsearch, Logstash, and Kibana, plus a .NET client for Logstash." src="./assets/elk-light.svg" width="100%" />
-</picture>
-</a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-Also <a href="https://github.com/alrx31/LGTM-integration">LGTM-integration</a> (Prometheus, Loki, Tempo, Grafana) and Nix <a href="https://github.com/alrx31/dotfiles">dotfiles</a>. Coursework in C++, Java, and databases is in the BSUIR repositories.
-
+<div>
+<a href="https://github.com/alrx31/MoonDiary"><img width="100%" alt="MoonDiary. Android mood diary. Evening entries. .NET MAUI, SQLite, unit tests in CI, Appium UI tests." src="./assets/moondiary.svg"></a>
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-activity-dark.svg" />
-  <img alt="Activity" src="./assets/label-activity-light.svg" width="100%" />
-</picture>
-
+<div>
+<a href="https://github.com/alrx31/EventPlatform"><img width="100%" alt="EventPlatform. Events, Stripe tickets, and QR check-in. Contributor on a fork of Vakich1/EventPlatform. Redesign and check-in were merged upstream. ASP.NET Core 10, CQRS, Next.js 14, PostgreSQL." src="./assets/eventplatform.svg"></a>
 </div>
 
-<table>
-<tr>
-<td width="46%" align="center" valign="middle">
+<div>
+<a href="https://github.com/alrx31/DreamsShop"><img width="100%" alt="DreamsShop. A study shop for dreams. Identity and Business services, Angular, PostgreSQL, Redis, MinIO, nginx, Docker Compose." src="./assets/dreamsshop.svg"></a>
+</div>
 
+<div>
+<a href="https://github.com/alrx31/ELK-integration"><img width="100%" alt="ELK-integration. Docker Compose ELK with TLS and a .NET client that writes logs to Logstash over SSL." src="./assets/elk.svg"></a>
+</div>
+
+<div>
+Also <a href="https://github.com/alrx31/LGTM-integration">LGTM-integration</a> (Prometheus, Loki, Tempo, Grafana) and Nix <a href="https://github.com/alrx31/dotfiles">dotfiles</a>. Coursework in C++, Java, and databases is in the BSUIR repos.
+</div>
+
+<div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=alrx31&layout=compact&langs_count=6&hide_border=true&card_width=380&theme=github_dark" />
-  <img alt="Top languages for alrx31" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alrx31&layout=compact&langs_count=6&hide_border=true&card_width=380&theme=default" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=alrx31&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;theme=github_dark">
+<img alt="GitHub stats for alrx31" src="https://github-stats-extended.vercel.app/api?username=alrx31&amp;show_icons=true&amp;hide_border=true&amp;include_all_commits=true&amp;theme=default">
 </picture>
+</div>
 
-</td>
-<td width="54%" align="center" valign="middle">
-
+<div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alrx31&theme=github-dark&hide_border=true" />
-  <img alt="GitHub contribution streak for alrx31" src="https://streak-stats.demolab.com?user=alrx31&theme=default&hide_border=true" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=alrx31&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;card_width=380&amp;theme=github_dark">
+<img alt="Top languages for alrx31" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alrx31&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;card_width=380&amp;theme=default">
 </picture>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-contact-dark.svg" />
-  <img alt="Contact" src="./assets/label-contact-light.svg" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alrx31&amp;theme=github-dark&amp;hide_border=true">
+<img alt="GitHub contribution streak for alrx31" src="https://streak-stats.demolab.com?user=alrx31&amp;theme=default&amp;hide_border=true">
 </picture>
+</div>
 
-GitHub is the public link. Email, Telegram, and LinkedIn are placeholders.
-
+<div>
 <!-- TODO: replace Email, Telegram, and LinkedIn with real links. These TODOs are intentional. -->
-
+<a href="https://github.com/alrx31">GitHub</a><br>
+Email TODO<br>
+Telegram TODO<br>
+LinkedIn TODO
 </div>
-
-<table>
-<tr>
-<td align="center" width="25%"><b>GitHub</b><br><a href="https://github.com/alrx31">alrx31</a></td>
-<td align="center" width="25%"><b>Email</b><br><code>TODO</code></td>
-<td align="center" width="25%"><b>Telegram</b><br><code>TODO</code></td>
-<td align="center" width="25%"><b>LinkedIn</b><br><code>TODO</code></td>
-</tr>
-</table>
