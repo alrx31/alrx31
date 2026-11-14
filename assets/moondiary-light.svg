@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="176" viewBox="0 0 440 176" role="img" aria-label="MoonDiary">
+  <rect x="0.5" y="0.5" width="439" height="175" rx="16" fill="#ffffff" stroke="#d0d7de"/>
+  <rect x="0" y="18" width="4" height="140" rx="2" fill="#512BD4"/>
+  <text x="22" y="34" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8" fill="#512BD4">MOBILE</text>
+  <text x="22" y="66" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1f2328">MoonDiary</text>
+  <text x="22" y="96" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">Android mood diary. Entries happen in the</text>
+  <text x="22" y="116" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">evening. .NET MAUI, SQLite, tests in CI.</text>
+  <rect x="22.0" y="136" width="71.4" height="22" rx="11" fill="#f3f4f6"/><text x="57.7" y="151" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#24292f">.NET MAUI</text>
+  <rect x="101.4" y="136" width="51.6" height="22" rx="11" fill="#f3f4f6"/><text x="127.2" y="151" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#24292f">SQLite</text>
+  <rect x="161.0" y="136" width="51.6" height="22" rx="11" fill="#f3f4f6"/><text x="186.8" y="151" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#24292f">Appium</text>
+</svg>
