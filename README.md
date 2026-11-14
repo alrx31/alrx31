@@ -1,35 +1,26 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,45:1E1B4B,100:4338CA&height=200&section=header&text=Aliaksei%20Usov&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=30&desc=Full-stack%20.NET%20%C2%B7%20TypeScript&descAlignY=54&descAlign=50&fontAlign=50&descSize=20" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,40:4F46E5,100:818CF8&height=200&section=header&text=Aliaksei%20Usov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full-stack%20.NET%20%C2%B7%20TypeScript&descAlignY=54&descAlign=50&fontAlign=50&descSize=20" />
-  <img alt="Aliaksei Usov, full-stack .NET and TypeScript" src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,40:4F46E5,100:818CF8&height=200&section=header&text=Aliaksei%20Usov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full-stack%20.NET%20%C2%B7%20TypeScript&descAlignY=54&descAlign=50&fontAlign=50&descSize=20" width="100%" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&height=40&lines=C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core;TypeScript+%C2%B7+Next.js+%C2%B7+Angular;.NET+MAUI+%C2%B7+PostgreSQL+%C2%B7+Docker" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=3730A3&center=true&vCenter=true&width=720&height=40&lines=C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core;TypeScript+%C2%B7+Next.js+%C2%B7+Angular;.NET+MAUI+%C2%B7+PostgreSQL+%C2%B7+Docker" />
-  <img alt="C#, .NET, ASP.NET Core, TypeScript, Next.js, Angular, .NET MAUI" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&color=3730A3&center=true&vCenter=true&width=720&height=40&lines=C%23+%C2%B7+.NET+%C2%B7+ASP.NET+Core;TypeScript+%C2%B7+Next.js+%C2%B7+Angular;.NET+MAUI+%C2%B7+PostgreSQL+%C2%B7+Docker" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+  <img alt="Aliaksei Usov, full-stack developer at BSUIR in Minsk. ASP.NET Core, TypeScript, and .NET MAUI." src="./assets/hero-light.svg" width="100%" />
 </picture>
 
 </div>
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="58%" valign="middle">
 
-### About
-
-Full-stack developer and software engineering student at **BSUIR** in Minsk.
-
-I build ASP.NET Core services, TypeScript clients, and .NET MAUI apps, and I connect them to PostgreSQL, Redis, Docker, and an observability stack when the project needs it.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" />
+  <img alt="About. I build ASP.NET Core services, TypeScript clients, and .NET MAUI apps, and I connect them to PostgreSQL, Redis, Docker, and an observability stack when the project needs it." src="./assets/about-light.svg" width="100%" />
+</picture>
 
 </td>
-<td width="44%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=alrx31&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=alrx31&show_icons=true&hide_border=true&include_all_commits=true&theme=default" />
   <img alt="GitHub stats for alrx31" src="https://github-stats-extended.vercel.app/api?username=alrx31&show_icons=true&hide_border=true&include_all_commits=true&theme=default" />
 </picture>
 
@@ -37,68 +28,64 @@ I build ASP.NET Core services, TypeScript clients, and .NET MAUI apps, and I con
 </tr>
 </table>
 
-<table>
-<tr>
-<td align="center" width="33%"><b>ASP.NET Core</b><br>services and APIs</td>
-<td align="center" width="33%"><b>TypeScript</b><br>Next.js and Angular</td>
-<td align="center" width="34%"><b>.NET MAUI</b><br>Android apps</td>
-</tr>
-</table>
-
-<h2 align="center">Stack</h2>
-
 <div align="center">
 
-<img alt="C#, .NET, TypeScript, Next.js, Angular, Java, C++" src="https://skillicons.dev/icons?i=cs,dotnet,typescript,nextjs,angular,java,cpp&perline=7" width="560" />
-
-<br>
-
-<img alt="PostgreSQL, Redis, Docker, Nginx, Elasticsearch, Grafana, Prometheus, Nix" src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,elasticsearch,grafana,prometheus,nixos&perline=8" width="640" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <img alt="Stack. C#, .NET, TypeScript, Java, C++, ASP.NET Core, .NET MAUI, Next.js, Angular, PostgreSQL, Redis, Docker, Nginx, Nix, Elasticsearch, Logstash, Kibana, Grafana, Prometheus, Loki, Tempo." src="./assets/stack-light.svg" width="100%" />
+</picture>
 
 </div>
 
-<h2 align="center">Selected work</h2>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-work-dark.svg" />
+  <img alt="Selected work" src="./assets/label-work-light.svg" width="100%" />
+</picture>
+
+</div>
 
 <table>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 <a href="https://github.com/alrx31/MoonDiary">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/moondiary-dark.svg" />
-  <img alt="MoonDiary, an Android mood diary on .NET MAUI" src="./assets/moondiary-light.svg" width="100%" />
+  <img alt="MoonDiary. Android mood diary on .NET MAUI, with SQLite and tests in CI." src="./assets/moondiary-light.svg" width="100%" />
 </picture>
 </a>
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 <a href="https://github.com/alrx31/EventPlatform">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/eventplatform-dark.svg" />
-  <img alt="EventPlatform, events with Stripe and QR check-in. Contributor on the Vakich1 fork." src="./assets/eventplatform-light.svg" width="100%" />
+  <img alt="EventPlatform. Events, Stripe tickets, and QR check-in. Contributor on the Vakich1 fork." src="./assets/eventplatform-light.svg" width="100%" />
 </picture>
 </a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 <a href="https://github.com/alrx31/DreamsShop">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/dreamsshop-dark.svg" />
-  <img alt="DreamsShop, Identity and Business services with Angular, PostgreSQL, Redis, and MinIO" src="./assets/dreamsshop-light.svg" width="100%" />
+  <img alt="DreamsShop. Identity and Business services, Angular, PostgreSQL, Redis, and MinIO." src="./assets/dreamsshop-light.svg" width="100%" />
 </picture>
 </a>
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
 <a href="https://github.com/alrx31/ELK-integration">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/elk-dark.svg" />
-  <img alt="ELK-integration, a TLS ELK stack and a .NET Logstash client" src="./assets/elk-light.svg" width="100%" />
+  <img alt="ELK-integration. TLS Elasticsearch, Logstash, and Kibana, plus a .NET client for Logstash." src="./assets/elk-light.svg" width="100%" />
 </picture>
 </a>
 
@@ -108,28 +95,33 @@ I build ASP.NET Core services, TypeScript clients, and .NET MAUI apps, and I con
 
 <div align="center">
 
-Also [LGTM-integration](https://github.com/alrx31/LGTM-integration) (Prometheus, Loki, Tempo, Grafana) and Nix [dotfiles](https://github.com/alrx31/dotfiles). Coursework in C++, Java, and databases is in the BSUIR repositories.
+Also <a href="https://github.com/alrx31/LGTM-integration">LGTM-integration</a> (Prometheus, Loki, Tempo, Grafana) and Nix <a href="https://github.com/alrx31/dotfiles">dotfiles</a>. Coursework in C++, Java, and databases is in the BSUIR repositories.
 
 </div>
 
-<h2 align="center">Activity</h2>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-activity-dark.svg" />
+  <img alt="Activity" src="./assets/label-activity-light.svg" width="100%" />
+</picture>
+
+</div>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="46%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=alrx31&layout=compact&langs_count=6&hide_border=true&card_width=340&theme=github_dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=alrx31&layout=compact&langs_count=6&hide_border=true&card_width=340&theme=default" />
-  <img alt="Top languages for alrx31" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alrx31&layout=compact&langs_count=6&hide_border=true&card_width=340&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=alrx31&layout=compact&langs_count=6&hide_border=true&card_width=380&theme=github_dark" />
+  <img alt="Top languages for alrx31" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alrx31&layout=compact&langs_count=6&hide_border=true&card_width=380&theme=default" />
 </picture>
 
 </td>
-<td width="50%" align="center">
+<td width="54%" align="center" valign="middle">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=alrx31&theme=github-dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=alrx31&theme=default&hide_border=true" />
   <img alt="GitHub contribution streak for alrx31" src="https://streak-stats.demolab.com?user=alrx31&theme=default&hide_border=true" />
 </picture>
 
@@ -137,9 +129,12 @@ Also [LGTM-integration](https://github.com/alrx31/LGTM-integration) (Prometheus,
 </tr>
 </table>
 
-<h2 align="center">Contact</h2>
-
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/label-contact-dark.svg" />
+  <img alt="Contact" src="./assets/label-contact-light.svg" width="100%" />
+</picture>
 
 GitHub is the public link. Email, Telegram, and LinkedIn are placeholders.
 
